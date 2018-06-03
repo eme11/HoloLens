@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7e2a8633491b30409859f20e0e89fae
+timeCreated: 1503414040
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ParentGameObjectToPlace: {instanceID: 0}
+  - PopUpMenu: {fileID: 1553063435240458, guid: 63d4e7afec63a094da6e03eeaabc184e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

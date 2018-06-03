@@ -1,0 +1,2 @@
+C:\Users\maem1013\Desktop\Work Version\HsKAHolodeck_v2.2.12-work2\HsKAHolodeck\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\maem1013\Desktop\Work Version\HsKAHolodeck_v2.3.5-work\HsKAHolodeck\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
